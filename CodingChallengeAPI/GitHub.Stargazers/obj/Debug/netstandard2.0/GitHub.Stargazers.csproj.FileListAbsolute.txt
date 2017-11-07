@@ -1,0 +1,8 @@
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Stargazers\bin\Debug\netstandard2.0\GitHub.Stargazers.deps.json
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Stargazers\bin\Debug\netstandard2.0\GitHub.Stargazers.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Stargazers\bin\Debug\netstandard2.0\GitHub.Stargazers.pdb
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Stargazers\obj\Debug\netstandard2.0\GitHub.Stargazers.csproj.CoreCompileInputs.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Stargazers\obj\Debug\netstandard2.0\GitHub.Stargazers.AssemblyInfoInputs.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Stargazers\obj\Debug\netstandard2.0\GitHub.Stargazers.AssemblyInfo.cs
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Stargazers\obj\Debug\netstandard2.0\GitHub.Stargazers.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Stargazers\obj\Debug\netstandard2.0\GitHub.Stargazers.pdb

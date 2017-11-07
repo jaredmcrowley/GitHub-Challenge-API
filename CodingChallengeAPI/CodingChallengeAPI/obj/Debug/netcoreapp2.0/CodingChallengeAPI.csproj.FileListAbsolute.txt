@@ -1,0 +1,17 @@
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\CodingChallengeAPI.deps.json
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\CodingChallengeAPI.runtimeconfig.json
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\CodingChallengeAPI.runtimeconfig.dev.json
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\CodingChallengeAPI.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\CodingChallengeAPI.pdb
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\GitHub.Followers.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\GitHub.Repositories.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\GitHub.Stargazers.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\GitHub.Followers.pdb
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\GitHub.Repositories.pdb
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\bin\Debug\netcoreapp2.0\GitHub.Stargazers.pdb
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\obj\Debug\netcoreapp2.0\CodingChallengeAPI.csprojResolveAssemblyReference.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\obj\Debug\netcoreapp2.0\CodingChallengeAPI.csproj.CoreCompileInputs.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\obj\Debug\netcoreapp2.0\CodingChallengeAPI.AssemblyInfoInputs.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\obj\Debug\netcoreapp2.0\CodingChallengeAPI.AssemblyInfo.cs
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\obj\Debug\netcoreapp2.0\CodingChallengeAPI.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\CodingChallengeAPI\obj\Debug\netcoreapp2.0\CodingChallengeAPI.pdb

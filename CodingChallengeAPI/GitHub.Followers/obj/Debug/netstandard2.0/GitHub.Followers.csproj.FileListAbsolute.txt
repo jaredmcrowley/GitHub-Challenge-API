@@ -1,0 +1,8 @@
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Followers\bin\Debug\netstandard2.0\GitHub.Followers.deps.json
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Followers\bin\Debug\netstandard2.0\GitHub.Followers.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Followers\bin\Debug\netstandard2.0\GitHub.Followers.pdb
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Followers\obj\Debug\netstandard2.0\GitHub.Followers.csproj.CoreCompileInputs.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Followers\obj\Debug\netstandard2.0\GitHub.Followers.AssemblyInfoInputs.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Followers\obj\Debug\netstandard2.0\GitHub.Followers.AssemblyInfo.cs
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Followers\obj\Debug\netstandard2.0\GitHub.Followers.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Followers\obj\Debug\netstandard2.0\GitHub.Followers.pdb

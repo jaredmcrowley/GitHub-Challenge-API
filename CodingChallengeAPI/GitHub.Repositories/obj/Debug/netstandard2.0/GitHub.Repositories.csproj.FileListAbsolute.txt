@@ -1,0 +1,8 @@
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Repositories\bin\Debug\netstandard2.0\GitHub.Repositories.deps.json
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Repositories\bin\Debug\netstandard2.0\GitHub.Repositories.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Repositories\bin\Debug\netstandard2.0\GitHub.Repositories.pdb
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Repositories\obj\Debug\netstandard2.0\GitHub.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Repositories\obj\Debug\netstandard2.0\GitHub.Repositories.AssemblyInfoInputs.cache
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Repositories\obj\Debug\netstandard2.0\GitHub.Repositories.AssemblyInfo.cs
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Repositories\obj\Debug\netstandard2.0\GitHub.Repositories.dll
+C:\Users\keist_000\Desktop\Jared Important Folder\CenturyLinkAPI\CodingChallengeAPI\GitHub.Repositories\obj\Debug\netstandard2.0\GitHub.Repositories.pdb
